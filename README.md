@@ -1,9 +1,9 @@
 # NeoVim Configuration
 
 ## Folder Structure
-├── lua/
-│   ├── config/         # 🛠️ Custom configurations for LazyVim
-│   └── plugins/         # 📁 Other custom Lua files such as keymaps , alpha.lua etc
+  ├── lua/
+  │   ├── config/         # 🛠️ Custom configurations for LazyVim
+  │   └── plugins/         # 📁 Other custom Lua files such as keymaps , alpha.lua etc
 
 🚀 Getting Started
 To get started with this configuration:
