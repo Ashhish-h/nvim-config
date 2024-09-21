@@ -2,7 +2,9 @@
 
 ## Folder Structure
   ├── lua/
-  │   ├── config/         # 🛠️ Custom configurations for LazyVim
+  
+  │   ├── config/          # 🛠️ Custom configurations for LazyVim
+  
   │   └── plugins/         # 📁 Other custom Lua files such as keymaps , alpha.lua etc
 
 🚀 Getting Started
